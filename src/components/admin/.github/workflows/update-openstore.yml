@@ -1,4 +1,4 @@
-   # Update OpenStore: one click brings this shop's code to the latest release.
+# Update OpenStore: one click brings this shop's code to the latest release.
 #
 # A shop made with the "Deploy with Vercel" button is a copy, not a fork, so it
 # cannot pull updates by itself. Run this from the Actions tab: it saves the
